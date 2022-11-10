@@ -21,3 +21,18 @@ const headers = document.getElementsByTagName("h2");
 for (let i = 0; i < headers.length; i++) {
     headers[i].innerText = "LeBum Jahames";
 }
+
+const title = document.getElementsByTagName("h1");
+for (let i = 0; i < title.length; i++) {
+    title[i].innerText = "JeBron Lames";
+}
+
+const subs = document.getElementsByTagName("h3");
+for (let i = 0; i < subs.length; i++) {
+    subs[i].innerText = "LeGM";
+}
+
+const links = document.getElementsByTagName("a");
+for (let i = 0; i < links.length; i++) {
+    links[i].innerText = "LeBrown Stains";
+}
